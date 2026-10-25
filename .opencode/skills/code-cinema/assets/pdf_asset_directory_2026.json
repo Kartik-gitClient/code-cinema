@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "id": "open_source_3d_asset_directory_2026",
+  "title": "Open-Source 3D Asset Directory 2026",
+  "verified": "October 24, 2026",
+  "license_summary": "Download only the packs listed here. CC-BY assets require the exact credit line in the generated CREDITS.md.",
+  "entries": [
+    {
+      "id": "C1",
+      "name": "Ultimate Animated Character Pack",
+      "author": "Quaternius",
+      "category": "characters",
+      "page_url": "https://quaternius.com/packs/ultimatedanimatedcharacter.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms: credit not required, but do not resell or redistribute the raw pack as assets."
+    },
+    {
+      "id": "C2",
+      "name": "Universal Base Characters",
+      "author": "Quaternius",
+      "category": "characters",
+      "page_url": "https://quaternius.com/packs/universalbasecharacters.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms: credit not required, but do not resell or redistribute the raw pack as assets."
+    },
+    {
+      "id": "C3",
+      "name": "RPG Character Pack",
+      "author": "Quaternius",
+      "category": "characters",
+      "page_url": "https://quaternius.com/packs/rpgcharacters.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms: credit not required, but do not resell or redistribute the raw pack as assets."
+    },
+    {
+      "id": "C4",
+      "name": "Animated Characters series + Blocky Characters 2.0",
+      "author": "Kenney",
+      "category": "characters",
+      "page_url": "https://kenney.nl/assets/animated-characters-protagonists",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "C5",
+      "name": "KayKit Character Pack: Adventurers",
+      "author": "Kay Lousberg",
+      "category": "characters",
+      "page_url": "https://kaylousberg.itch.io/kaykit-adventurers",
+      "license": "CC0",
+      "attribution": "Credit not required; do not resell unmodified copies."
+    },
+    {
+      "id": "C6",
+      "name": "Spring",
+      "author": "Blender Studio",
+      "category": "characters",
+      "page_url": "https://studio.blender.org/characters/spring/v1/",
+      "license": "CC-BY-4.0",
+      "attribution": "Spring Rig (CC-BY) Blender Foundation | studio.blender.org"
+    },
+    {
+      "id": "C7",
+      "name": "Ellie (Sprite Fright)",
+      "author": "Blender Studio",
+      "category": "characters",
+      "page_url": "https://studio.blender.org/characters/ellie/v1/",
+      "license": "CC-BY-4.0",
+      "attribution": "Ellie Rig (CC-BY) Blender Foundation | studio.blender.org"
+    },
+    {
+      "id": "C8",
+      "name": "Lowpoly Dummy Character (10 Animations)",
+      "author": "umplix / OpenGameArt",
+      "category": "characters",
+      "page_url": "https://opengameart.org/content/lowpoly-dummy-character10-animations",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "C9",
+      "name": "Low-poly PSX Style Medieval Soldier",
+      "author": "mujtaba-io / OpenGameArt",
+      "category": "characters",
+      "page_url": "https://opengameart.org/content/low-poly-psx-style-medieval-soldier-rigged-animated",
+      "license": "CC0",
+      "attribution": "CC0. All yours."
+    },
+    {
+      "id": "E1",
+      "name": "Modular Buildings",
+      "author": "Kenney",
+      "category": "environments",
+      "page_url": "https://kenney.nl/assets/modular-buildings",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "E2",
+      "name": "City Kit (Commercial)",
+      "author": "Kenney",
+      "category": "environments",
+      "page_url": "https://kenney.nl/assets/city-kit-commercial",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "E3",
+      "name": "Downtown City MegaKit",
+      "author": "Quaternius",
+      "category": "environments",
+      "page_url": "https://quaternius.com/packs/downtowncitymegakit.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms; itch.io listing states CC0 1.0."
+    },
+    {
+      "id": "E4",
+      "name": "Modular Medieval Buildings",
+      "author": "Quaternius",
+      "category": "environments",
+      "page_url": "https://quaternius.com/packs/modularmedievalbuildings.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms: credit not required, but do not resell or redistribute the raw pack as assets."
+    },
+    {
+      "id": "E5",
+      "name": "KayKit Dungeon Pack",
+      "author": "Kay Lousberg",
+      "category": "environments",
+      "page_url": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+      "license": "CC0",
+      "attribution": "Credit not required; do not resell unmodified copies."
+    },
+    {
+      "id": "E6",
+      "name": "Dungeon Interior Kit",
+      "author": "humble squirrel / OpenGameArt",
+      "category": "environments",
+      "page_url": "https://opengameart.org/content/dungeon-interior-kit",
+      "license": "CC0",
+      "attribution": "Credit not required."
+    },
+    {
+      "id": "E7",
+      "name": "Tiny Treats Charming Kitchen Set",
+      "author": "Isa Lousberg / OpenGameArt",
+      "category": "environments",
+      "page_url": "https://opengameart.org/content/tiny-treats-charming-kitchen-set",
+      "license": "CC0",
+      "attribution": "Credit not required; crediting Isa Lousberg appreciated."
+    },
+    {
+      "id": "E8",
+      "name": "Poly Haven Furniture & Interior Models",
+      "author": "Poly Haven",
+      "category": "environments",
+      "page_url": "https://polyhaven.com/models",
+      "license": "CC0-1.0",
+      "attribution": "Credit not required.",
+      "download_strategy": "polyhaven_api",
+      "note": "Poly Haven is a per-asset API, not one archive. Use scripts/fetch_open_assets.py for selected model IDs."
+    },
+    {
+      "id": "R1",
+      "name": "City Kit (Roads)",
+      "author": "Kenney",
+      "category": "roads",
+      "page_url": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "R2",
+      "name": "LowPoly Modular Street",
+      "author": "Quaternius",
+      "category": "roads",
+      "page_url": "https://quaternius.com/packs/modularstreets.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms: credit not required, but do not resell or redistribute the raw pack as assets."
+    },
+    {
+      "id": "R3",
+      "name": "Low Poly Modular Road Sets",
+      "author": "Hernandack / OpenGameArt",
+      "category": "roads",
+      "page_url": "https://opengameart.org/content/low-poly-modular-road-sets",
+      "license": "CC-BY-4.0",
+      "attribution": "Hernandack (www.hernandack.com)"
+    },
+    {
+      "id": "R4",
+      "name": "Car Kit",
+      "author": "Kenney",
+      "category": "roads",
+      "page_url": "https://kenney.nl/assets/car-kit",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "R5",
+      "name": "Free Low Poly Vehicles Pack",
+      "author": "rgsdev / OpenGameArt",
+      "category": "roads",
+      "page_url": "https://opengameart.org/content/free-low-poly-vehicles-pack",
+      "license": "CC0",
+      "attribution": "Credit not required."
+    },
+    {
+      "id": "R6",
+      "name": "LowPoly Cars",
+      "author": "Quaternius",
+      "category": "roads",
+      "page_url": "https://quaternius.itch.io/lowpoly-cars",
+      "license": "CC0*",
+      "attribution": "itch.io listing links CC0 1.0; site terms apply."
+    },
+    {
+      "id": "R7",
+      "name": "Cartoon Vehicles Pack 1",
+      "author": "Divinux / OpenGameArt",
+      "category": "roads",
+      "page_url": "https://opengameart.org/content/cartoon-vehicles-pack-1",
+      "license": "CC0",
+      "attribution": "Credit not required."
+    },
+    {
+      "id": "P1",
+      "name": "Blaster Kit",
+      "author": "Kenney",
+      "category": "props",
+      "page_url": "https://kenney.nl/assets/blaster-kit",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "P2",
+      "name": "Animated Guns Pack",
+      "author": "Quaternius",
+      "category": "props",
+      "page_url": "https://quaternius.com/packs/animatedguns.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms: credit not required, but do not resell or redistribute the raw pack as assets."
+    },
+    {
+      "id": "P3",
+      "name": "Modular Weapons Pack",
+      "author": "Quaternius",
+      "category": "props",
+      "page_url": "https://quaternius.com/packs/medievalweapons.html",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms: credit not required, but do not resell or redistribute the raw pack as assets."
+    },
+    {
+      "id": "P4",
+      "name": "Fantasy Props MegaKit",
+      "author": "Quaternius",
+      "category": "props",
+      "page_url": "https://quaternius.itch.io/fantasy-props-megakit",
+      "license": "CC0*",
+      "attribution": "Quaternius Asset License v1.0 site terms; itch.io listing states full free tier."
+    },
+    {
+      "id": "P5",
+      "name": "Food Kit",
+      "author": "Kenney",
+      "category": "props",
+      "page_url": "https://kenney.nl/assets/food-kit",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "P6",
+      "name": "Furniture Kit",
+      "author": "Kenney",
+      "category": "props",
+      "page_url": "https://kenney.nl/assets/furniture-kit",
+      "license": "CC0",
+      "attribution": "Credit not required; credit appreciated."
+    },
+    {
+      "id": "P7",
+      "name": "Poly Haven Props Library",
+      "author": "Poly Haven",
+      "category": "props",
+      "page_url": "https://polyhaven.com/models",
+      "license": "CC0-1.0",
+      "attribution": "Credit not required.",
+      "download_strategy": "polyhaven_api",
+      "note": "Poly Haven is a per-asset API, not one archive. Use scripts/fetch_open_assets.py for selected model IDs."
+    },
+    {
+      "id": "P8",
+      "name": "3D Swords Pack",
+      "author": "mehrasaur / OpenGameArt",
+      "category": "props",
+      "page_url": "https://opengameart.org/content/3d-swords-pack",
+      "license": "CC0",
+      "attribution": "Credit not required."
+    }
+  ]
+}

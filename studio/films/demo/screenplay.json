@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "slug": "demo",
+  "title": "THE LAST NIGHT",
+  "logline": "At 3 AM, a blood-soaked neighbour begs you to open the door.",
+  "format": { "width": 1080, "height": 1920, "fps": 30 },
+  "style": "night_horror",
+  "default_location": "room_night",
+  "opening": {
+    "title": "THE LAST NIGHT",
+    "subtitle": "EPISODE 1  •  YOU DECIDE",
+    "duration": 2.8
+  },
+  "shots": [
+    {
+      "id": "s1",
+      "location": "room_night",
+      "duration": 4.4,
+      "look": "night_horror",
+      "camera": {
+        "anchor": "table_detail",
+        "look_at": "anchor:table_center",
+        "move": "push_in",
+        "amount": 0.22,
+        "fov": 52,
+        "shake": 0.008
+      },
+      "dialogue": [
+        { "speaker": "narrator", "text": "3 A.M. The power is out.", "start": 0.6, "voice": "narrator" }
+      ],
+      "sfx": [
+        { "sound": "wind", "at": 0.0, "volume": 0.35 },
+        { "sound": "heartbeat", "at": 1.6, "volume": 0.3 }
+      ]
+    },
+    {
+      "id": "s2",
+      "location": "room_night",
+      "duration": 3.8,
+      "camera": {
+        "anchor": "door_pov",
+        "look_at": "anchor:door",
+        "move": "push_in",
+        "amount": 0.4,
+        "fov": 62,
+        "shake": 0.02,
+        "impact_at": 0.25,
+        "impact": 0.03
+      },
+      "location_anim": "door_knock",
+      "dialogue": [
+        { "speaker": "narrator", "text": "Someone is knocking.", "start": 0.4, "voice": "narrator" }
+      ],
+      "sfx": [
+        { "sound": "knock", "at": 0.25, "volume": 0.9 },
+        { "sound": "knock", "at": 1.9, "volume": 0.85 }
+      ]
+    },
+    {
+      "id": "s3",
+      "location": "room_night",
+      "duration": 4.6,
+      "camera": {
+        "anchor": "window",
+        "look_at": "anchor:window_light",
+        "move": "handheld",
+        "amount": 0.045,
+        "fov": 58,
+        "shake": 0.03
+      },
+      "dialogue": [
+        { "speaker": "narrator", "text": "Your neighbour is outside. Covered in blood.", "start": 0.4, "voice": "narrator" }
+      ],
+      "sfx": [
+        { "sound": "heartbeat", "at": 0.8, "volume": 0.5 },
+        { "sound": "wind", "at": 0.0, "volume": 0.28 }
+      ]
+    },
+    {
+      "id": "s4",
+      "location": "room_night",
+      "duration": 5.2,
+      "camera": {
+        "anchor": "door_medium",
+        "look_at": "actor:neighbor",
+        "move": "push_in",
+        "amount": 0.1,
+        "fov": 44,
+        "shake": 0.018
+      },
+      "actors": [
+        { "id": "neighbor", "character": "zombie", "slot": "neighbor", "anim": "knock", "face": "camera" }
+      ],
+      "dialogue": [
+        { "speaker": "narrator", "text": "He's asking you to open the door.", "start": 0.4, "voice": "narrator" },
+        { "speaker": "neighbour", "text": "Please. It's getting dark.", "start": 2.4, "voice": "zombie" }
+      ],
+      "sfx": [
+        { "sound": "door_creak", "at": 0.0, "volume": 0.25 },
+        { "sound": "knock", "at": 2.3, "volume": 0.45 }
+      ]
+    },
+    {
+      "id": "s5",
+      "location": "room_night",
+      "duration": 5.0,
+      "camera": {
+        "anchor": "room_wide",
+        "look_at": "actor:neighbor",
+        "move": "pull_out",
+        "amount": 0.35,
+        "fov": 56,
+        "shake": 0.012,
+        "impact_at": 2.7,
+        "impact": 0.055
+      },
+      "actors": [
+        { "id": "neighbor", "character": "zombie", "slot": "neighbor", "anim": "lurch", "face": "camera" }
+      ],
+      "dialogue": [
+        { "speaker": "narrator", "text": "Then the knocking stops. And the handle turns.", "start": 0.3, "voice": "narrator" }
+      ],
+      "sfx": [
+        { "sound": "thud", "at": 2.7, "volume": 0.9 },
+        { "sound": "stinger", "at": 3.8, "volume": 0.7 }
+      ]
+    }
+  ],
+  "ending": {
+    "question": "WOULD YOU OPEN THE DOOR?",
+    "options": ["YES", "NO"],
+    "duration": 5.5,
+    "voice": "narrator",
+    "line": "COMMENT YOUR VOTE. THE STORY CONTINUES TOMORROW."
+  },
+  "audio": {
+    "music": { "track": "tension", "volume": 0.18 },
+    "mix": { "lufs": -16 }
+  }
+}

@@ -1,0 +1,1295 @@
+{
+  "characters": {
+    "survivor": {
+      "anchors": [],
+      "animations": {
+        "idle": 2.6,
+        "walk": 1.15
+      },
+      "bounds": {
+        "max": [
+          0.209999993443489,
+          0.409999996423721,
+          0.188066065311432
+        ],
+        "min": [
+          -0.209999993443489,
+          -0.409999996423721,
+          -0.188066065311432
+        ]
+      },
+      "nodes": [
+        {
+          "groups": [],
+          "name": "Survivor",
+          "path": ".",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "Torso",
+          "path": "Torso",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hips",
+          "path": "Hips",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Collar",
+          "path": "Collar",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Head",
+          "path": "Head",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Jaw",
+          "path": "Jaw",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "EyeL",
+          "path": "EyeL",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "EyeR",
+          "path": "EyeR",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hair",
+          "path": "Hair",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmL",
+          "path": "ArmL",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmMesh",
+          "path": "ArmL/ArmMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hand",
+          "path": "ArmL/Hand",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmR",
+          "path": "ArmR",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmMesh",
+          "path": "ArmR/ArmMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hand",
+          "path": "ArmR/Hand",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LegL",
+          "path": "LegL",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "LegMesh",
+          "path": "LegL/LegMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Foot",
+          "path": "LegL/Foot",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LegR",
+          "path": "LegR",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "LegMesh",
+          "path": "LegR/LegMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Foot",
+          "path": "LegR/Foot",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "AnimationPlayer",
+          "path": "AnimationPlayer",
+          "type": "AnimationPlayer"
+        }
+      ],
+      "root": "Survivor",
+      "scene": "res://kit/characters/survivor.tscn"
+    },
+    "zombie": {
+      "anchors": [],
+      "animations": {
+        "attack": 1.1,
+        "idle": 2.6,
+        "walk": 1.15
+      },
+      "bounds": {
+        "max": [
+          0.209999993443489,
+          0.409999996423721,
+          0.188066065311432
+        ],
+        "min": [
+          -0.209999993443489,
+          -0.409999996423721,
+          -0.188066065311432
+        ]
+      },
+      "nodes": [
+        {
+          "groups": [],
+          "name": "Zombie",
+          "path": ".",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "Torso",
+          "path": "Torso",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hips",
+          "path": "Hips",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Collar",
+          "path": "Collar",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Head",
+          "path": "Head",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Jaw",
+          "path": "Jaw",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "EyeL",
+          "path": "EyeL",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "EyeR",
+          "path": "EyeR",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "MouthBlood",
+          "path": "MouthBlood",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BloodStainA",
+          "path": "BloodStainA",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BloodStainB",
+          "path": "BloodStainB",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BloodStainC",
+          "path": "BloodStainC",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmL",
+          "path": "ArmL",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmMesh",
+          "path": "ArmL/ArmMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hand",
+          "path": "ArmL/Hand",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmR",
+          "path": "ArmR",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "ArmMesh",
+          "path": "ArmR/ArmMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hand",
+          "path": "ArmR/Hand",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LegL",
+          "path": "LegL",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "LegMesh",
+          "path": "LegL/LegMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Foot",
+          "path": "LegL/Foot",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LegR",
+          "path": "LegR",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "LegMesh",
+          "path": "LegR/LegMesh",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Foot",
+          "path": "LegR/Foot",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "AnimationPlayer",
+          "path": "AnimationPlayer",
+          "type": "AnimationPlayer"
+        }
+      ],
+      "root": "Zombie",
+      "scene": "res://kit/characters/zombie.tscn"
+    }
+  },
+  "generated_at": "2026-10-23T03:23:11",
+  "godot": "4.7.2-stable (official)",
+  "locations": {
+    "room_night": {
+      "anchors": [
+        "room_wide",
+        "door_pov",
+        "door_close",
+        "window",
+        "table",
+        "low_corner",
+        "door",
+        "window_light",
+        "neighbor",
+        "player"
+      ],
+      "animations": {},
+      "bounds": {
+        "max": [
+          4.0,
+          1.60000002384186,
+          4.0
+        ],
+        "min": [
+          -4.0,
+          -1.60000002384186,
+          -4.0
+        ]
+      },
+      "nodes": [
+        {
+          "groups": [],
+          "name": "RoomNight",
+          "path": ".",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank0",
+          "path": "FloorPlank0",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank1",
+          "path": "FloorPlank1",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank2",
+          "path": "FloorPlank2",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank3",
+          "path": "FloorPlank3",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank4",
+          "path": "FloorPlank4",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank5",
+          "path": "FloorPlank5",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank6",
+          "path": "FloorPlank6",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FloorPlank7",
+          "path": "FloorPlank7",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Ceiling",
+          "path": "Ceiling",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WallBack",
+          "path": "WallBack",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WallFront",
+          "path": "WallFront",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WallLeft",
+          "path": "WallLeft",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WallRight",
+          "path": "WallRight",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BaseboardBack",
+          "path": "BaseboardBack",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BaseboardFront",
+          "path": "BaseboardFront",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BaseboardLeft",
+          "path": "BaseboardLeft",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BaseboardRight",
+          "path": "BaseboardRight",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Rug",
+          "path": "Rug",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "CoffeeTop",
+          "path": "CoffeeTop",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "CoffeeLeg",
+          "path": "CoffeeLeg",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@2",
+          "path": "@MeshInstance3D@2",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@3",
+          "path": "@MeshInstance3D@3",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@4",
+          "path": "@MeshInstance3D@4",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BookA",
+          "path": "BookA",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BookB",
+          "path": "BookB",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Mug",
+          "path": "Mug",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Chair",
+          "path": "Chair",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "Seat",
+          "path": "Chair/Seat",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Back",
+          "path": "Chair/Back",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Leg",
+          "path": "Chair/Leg",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@5",
+          "path": "Chair/@MeshInstance3D@5",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@6",
+          "path": "Chair/@MeshInstance3D@6",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@7",
+          "path": "Chair/@MeshInstance3D@7",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "SofaBase",
+          "path": "SofaBase",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "SofaBack",
+          "path": "SofaBack",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "SofaArmFront",
+          "path": "SofaArmFront",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "SofaArmBack",
+          "path": "SofaArmBack",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "SofaCushionA",
+          "path": "SofaCushionA",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "SofaCushionB",
+          "path": "SofaCushionB",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ThrowPillow",
+          "path": "ThrowPillow",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "TableTop",
+          "path": "TableTop",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "TableLeg",
+          "path": "TableLeg",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@8",
+          "path": "@MeshInstance3D@8",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@9",
+          "path": "@MeshInstance3D@9",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@10",
+          "path": "@MeshInstance3D@10",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LampBase",
+          "path": "LampBase",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LampStem",
+          "path": "LampStem",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LampShade",
+          "path": "LampShade",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "LampLight",
+          "path": "LampLight",
+          "type": "OmniLight3D"
+        },
+        {
+          "groups": [],
+          "name": "ShelfBack",
+          "path": "ShelfBack",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ShelfSideA",
+          "path": "ShelfSideA",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ShelfSideB",
+          "path": "ShelfSideB",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ShelfTop",
+          "path": "ShelfTop",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ShelfBottom",
+          "path": "ShelfBottom",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ShelfBoard",
+          "path": "ShelfBoard",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@11",
+          "path": "@MeshInstance3D@11",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@12",
+          "path": "@MeshInstance3D@12",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Book",
+          "path": "Book",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@13",
+          "path": "@MeshInstance3D@13",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@14",
+          "path": "@MeshInstance3D@14",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@15",
+          "path": "@MeshInstance3D@15",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@16",
+          "path": "@MeshInstance3D@16",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@17",
+          "path": "@MeshInstance3D@17",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@18",
+          "path": "@MeshInstance3D@18",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@19",
+          "path": "@MeshInstance3D@19",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@20",
+          "path": "@MeshInstance3D@20",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@21",
+          "path": "@MeshInstance3D@21",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@22",
+          "path": "@MeshInstance3D@22",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@23",
+          "path": "@MeshInstance3D@23",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@24",
+          "path": "@MeshInstance3D@24",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@25",
+          "path": "@MeshInstance3D@25",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "@MeshInstance3D@26",
+          "path": "@MeshInstance3D@26",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorFrameL",
+          "path": "DoorFrameL",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorFrameR",
+          "path": "DoorFrameR",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorFrameTop",
+          "path": "DoorFrameTop",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorSlab",
+          "path": "DoorSlab",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorPanelA",
+          "path": "DoorPanelA",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorPanelB",
+          "path": "DoorPanelB",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorPanelC",
+          "path": "DoorPanelC",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorPanelD",
+          "path": "DoorPanelD",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorHandle",
+          "path": "DoorHandle",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorHandleRose",
+          "path": "DoorHandleRose",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorChain",
+          "path": "DoorChain",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorChain2",
+          "path": "DoorChain2",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BloodSmear",
+          "path": "BloodSmear",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BloodFinger1",
+          "path": "BloodFinger1",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BloodFinger2",
+          "path": "BloodFinger2",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "BloodFinger3",
+          "path": "BloodFinger3",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorGlow",
+          "path": "DoorGlow",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DoorGlowLight",
+          "path": "DoorGlowLight",
+          "type": "OmniLight3D"
+        },
+        {
+          "groups": [],
+          "name": "FrameA",
+          "path": "FrameA",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FrameAArt",
+          "path": "FrameAArt",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FrameB",
+          "path": "FrameB",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FrameBArt",
+          "path": "FrameBArt",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ClockBody",
+          "path": "ClockBody",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ClockFace",
+          "path": "ClockFace",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ClockHandH",
+          "path": "ClockHandH",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "ClockHandM",
+          "path": "ClockHandM",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowGlow",
+          "path": "WindowGlow",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowFrameTop",
+          "path": "WindowFrameTop",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowFrameBottom",
+          "path": "WindowFrameBottom",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowFrameLeft",
+          "path": "WindowFrameLeft",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowFrameRight",
+          "path": "WindowFrameRight",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowBarV",
+          "path": "WindowBarV",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowBarH",
+          "path": "WindowBarH",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "CurtainRod",
+          "path": "CurtainRod",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "CurtainL",
+          "path": "CurtainL",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "CurtainR",
+          "path": "CurtainR",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "MoonSpot",
+          "path": "MoonSpot",
+          "type": "SpotLight3D"
+        },
+        {
+          "groups": [],
+          "name": "WindowFill",
+          "path": "WindowFill",
+          "type": "OmniLight3D"
+        },
+        {
+          "groups": [],
+          "name": "Cord",
+          "path": "Cord",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Bulb",
+          "path": "Bulb",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "DustMotes",
+          "path": "DustMotes",
+          "type": "GPUParticles3D"
+        },
+        {
+          "groups": [],
+          "name": "Anchors",
+          "path": "Anchors",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "room_wide",
+          "path": "Anchors/room_wide",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "door_pov",
+          "path": "Anchors/door_pov",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "door_close",
+          "path": "Anchors/door_close",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "window",
+          "path": "Anchors/window",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "table",
+          "path": "Anchors/table",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "low_corner",
+          "path": "Anchors/low_corner",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "door",
+          "path": "Anchors/door",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "window_light",
+          "path": "Anchors/window_light",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "Slots",
+          "path": "Slots",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "neighbor",
+          "path": "Slots/neighbor",
+          "type": "Marker3D"
+        },
+        {
+          "groups": [],
+          "name": "player",
+          "path": "Slots/player",
+          "type": "Marker3D"
+        }
+      ],
+      "root": "RoomNight",
+      "scene": "res://kit/locations/room_night.tscn"
+    }
+  },
+  "props": {
+    "door": {
+      "anchors": [],
+      "animations": {
+        "close": 1.2,
+        "open": 1.2
+      },
+      "bounds": {
+        "max": [
+          0.740000009536743,
+          1.12000000476837,
+          0.0799999982118607
+        ],
+        "min": [
+          -0.740000009536743,
+          -1.12000000476837,
+          -0.0799999982118607
+        ]
+      },
+      "nodes": [
+        {
+          "groups": [],
+          "name": "Door",
+          "path": ".",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "FrameL",
+          "path": "FrameL",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FrameR",
+          "path": "FrameR",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "FrameTop",
+          "path": "FrameTop",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Hinge",
+          "path": "Hinge",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "Slab",
+          "path": "Hinge/Slab",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "PanelA",
+          "path": "Hinge/PanelA",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "PanelB",
+          "path": "Hinge/PanelB",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "PanelC",
+          "path": "Hinge/PanelC",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "PanelD",
+          "path": "Hinge/PanelD",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Handle",
+          "path": "Hinge/Handle",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "HandleRose",
+          "path": "Hinge/HandleRose",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "AnimationPlayer",
+          "path": "AnimationPlayer",
+          "type": "AnimationPlayer"
+        }
+      ],
+      "root": "Door",
+      "scene": "res://kit/props/door.tscn"
+    },
+    "radio": {
+      "anchors": [],
+      "animations": {},
+      "bounds": {
+        "max": [
+          0.180000007152557,
+          0.259999990463257,
+          0.0900000035762787
+        ],
+        "min": [
+          -0.180000007152557,
+          -0.259999990463257,
+          -0.0900000035762787
+        ]
+      },
+      "nodes": [
+        {
+          "groups": [],
+          "name": "Radio",
+          "path": ".",
+          "type": "Node3D"
+        },
+        {
+          "groups": [],
+          "name": "Body",
+          "path": "Body",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Panel",
+          "path": "Panel",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Dial",
+          "path": "Dial",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "KnobL",
+          "path": "KnobL",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "KnobR",
+          "path": "KnobR",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Antenna",
+          "path": "Antenna",
+          "type": "MeshInstance3D"
+        },
+        {
+          "groups": [],
+          "name": "Speaker",
+          "path": "Speaker",
+          "type": "MeshInstance3D"
+        }
+      ],
+      "root": "Radio",
+      "scene": "res://kit/props/radio.tscn"
+    }
+  }
+}

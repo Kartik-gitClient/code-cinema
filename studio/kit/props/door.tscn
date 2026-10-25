@@ -1,0 +1,148 @@
+[gd_scene format=3]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_dr1mi"]
+albedo_color = Color(0.23137255, 0.15686275, 0.101960786, 1)
+roughness = 0.8
+
+[sub_resource type="BoxMesh" id="BoxMesh_cp4xq"]
+size = Vector3(0.14, 2.24, 0.16)
+
+[sub_resource type="BoxMesh" id="BoxMesh_rxkfk"]
+size = Vector3(0.14, 2.24, 0.16)
+
+[sub_resource type="BoxMesh" id="BoxMesh_pmjl2"]
+size = Vector3(1.48, 0.14, 0.16)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_360ub"]
+albedo_color = Color(0.3529412, 0.23921569, 0.15686275, 1)
+roughness = 0.72
+
+[sub_resource type="BoxMesh" id="BoxMesh_83iiw"]
+size = Vector3(1.1, 2.16, 0.08)
+
+[sub_resource type="BoxMesh" id="BoxMesh_d0iis"]
+size = Vector3(0.4, 0.76, 0.025)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ynr52"]
+size = Vector3(0.4, 0.76, 0.025)
+
+[sub_resource type="BoxMesh" id="BoxMesh_or6i5"]
+size = Vector3(0.4, 0.76, 0.025)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ut6iy"]
+size = Vector3(0.4, 0.76, 0.025)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_2668l"]
+albedo_color = Color(0.41960785, 0.41568628, 0.4, 1)
+metallic = 0.8
+roughness = 0.34
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_67xf7"]
+top_radius = 0.035
+bottom_radius = 0.035
+height = 0.1
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_r1pbo"]
+top_radius = 0.055
+bottom_radius = 0.055
+height = 0.025
+radial_segments = 20
+
+[sub_resource type="Animation" id="Animation_0cyny"]
+resource_name = "close"
+length = 1.2
+step = 0.01
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Hinge:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 96, 0), Vector3(0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_xx3ig"]
+resource_name = "open"
+length = 1.2
+step = 0.01
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Hinge:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 0), Vector3(0, 96, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_hle8m"]
+_data = {
+&"close": SubResource("Animation_0cyny"),
+&"open": SubResource("Animation_xx3ig")
+}
+
+[node name="Door" type="Node3D" unique_id=1815203519]
+
+[node name="FrameL" type="MeshInstance3D" parent="." unique_id=1662340876]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.67, 1.12, 0)
+material_override = SubResource("StandardMaterial3D_dr1mi")
+mesh = SubResource("BoxMesh_cp4xq")
+
+[node name="FrameR" type="MeshInstance3D" parent="." unique_id=236981489]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.67, 1.12, 0)
+material_override = SubResource("StandardMaterial3D_dr1mi")
+mesh = SubResource("BoxMesh_rxkfk")
+
+[node name="FrameTop" type="MeshInstance3D" parent="." unique_id=697202716]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.24, 0)
+material_override = SubResource("StandardMaterial3D_dr1mi")
+mesh = SubResource("BoxMesh_pmjl2")
+
+[node name="Hinge" type="Node3D" parent="." unique_id=1442504760]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.55, 0, 0)
+
+[node name="Slab" type="MeshInstance3D" parent="Hinge" unique_id=1626740990]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.55, 1.1, 0)
+material_override = SubResource("StandardMaterial3D_360ub")
+mesh = SubResource("BoxMesh_83iiw")
+
+[node name="PanelA" type="MeshInstance3D" parent="Hinge" unique_id=362844216]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.28, 1.58, 0.055)
+material_override = SubResource("StandardMaterial3D_dr1mi")
+mesh = SubResource("BoxMesh_d0iis")
+
+[node name="PanelB" type="MeshInstance3D" parent="Hinge" unique_id=7276343]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.58, 0.055)
+material_override = SubResource("StandardMaterial3D_dr1mi")
+mesh = SubResource("BoxMesh_ynr52")
+
+[node name="PanelC" type="MeshInstance3D" parent="Hinge" unique_id=1346169077]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.28, 0.72, 0.055)
+material_override = SubResource("StandardMaterial3D_dr1mi")
+mesh = SubResource("BoxMesh_or6i5")
+
+[node name="PanelD" type="MeshInstance3D" parent="Hinge" unique_id=1030849543]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.72, 0.055)
+material_override = SubResource("StandardMaterial3D_dr1mi")
+mesh = SubResource("BoxMesh_ut6iy")
+
+[node name="Handle" type="MeshInstance3D" parent="Hinge" unique_id=1324628415]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0.98, 1.05, 0.06)
+material_override = SubResource("StandardMaterial3D_2668l")
+mesh = SubResource("CylinderMesh_67xf7")
+
+[node name="HandleRose" type="MeshInstance3D" parent="Hinge" unique_id=1736426029]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0.98, 1.05, 0.035)
+material_override = SubResource("StandardMaterial3D_2668l")
+mesh = SubResource("CylinderMesh_r1pbo")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=2135394258]
+libraries/ = SubResource("AnimationLibrary_hle8m")

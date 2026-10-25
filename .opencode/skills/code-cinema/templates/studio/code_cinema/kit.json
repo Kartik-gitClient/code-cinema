@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "name": "starter_kit",
+  "description": "A primitive-built starter kit so the pipeline runs end to end. Replace or extend it with your own CC0 assets.",
+  "locations": {
+    "room_night": {
+      "scene": "res://kit/locations/room_night.tscn",
+      "description": "A dark farmhouse living room at night. Door upstage, cold window stage left, warm lamp stage right.",
+      "anchors": ["room_wide", "door_pov", "door_close", "window", "table", "low_corner", "door"],
+      "slots": ["neighbor", "player"]
+    }
+  },
+  "characters": {
+    "zombie": {
+      "scene": "res://kit/characters/zombie.tscn",
+      "animations": ["idle", "walk", "attack"],
+      "height": 1.95,
+      "forward": "-z",
+      "description": "Pale, hunched, blood-stained. Reads well in low light."
+    },
+    "survivor": {
+      "scene": "res://kit/characters/survivor.tscn",
+      "animations": ["idle", "walk"],
+      "height": 1.85,
+      "forward": "-z",
+      "description": "A tired survivor in a brown jacket."
+    }
+  },
+  "props": {
+    "radio": {
+      "scene": "res://kit/props/radio.tscn",
+      "description": "Small battery radio with a glowing dial."
+    },
+    "door": {
+      "scene": "res://kit/props/door.tscn",
+      "animations": ["open", "close"],
+      "description": "A hinged wooden door with an 'open' and 'close' animation."
+    }
+  },
+  "sfx": {
+    "knock": "res://kit/audio/knock.wav",
+    "thud": "res://kit/audio/thud.wav",
+    "heartbeat": "res://kit/audio/heartbeat.wav",
+    "wind": "res://kit/audio/wind.wav",
+    "stinger": "res://kit/audio/stinger.wav",
+    "door_creak": "res://kit/audio/door_creak.wav"
+  },
+  "music": {
+    "tension": "res://kit/audio/tension_loop.wav"
+  },
+  "voices": {
+    "narrator": {
+      "provider": "edge",
+      "voice": "en-US-AndrewNeural",
+      "rate": "-5%",
+      "pitch": "-2Hz",
+      "volume": "+0%"
+    },
+    "zombie": {
+      "provider": "edge",
+      "voice": "en-US-EricNeural",
+      "rate": "-12%",
+      "pitch": "-8Hz",
+      "volume": "+0%"
+    }
+  }
+}

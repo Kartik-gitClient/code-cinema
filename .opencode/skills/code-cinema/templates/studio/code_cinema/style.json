@@ -1,0 +1,22 @@
+{
+  "look": "night_horror",
+  "grain": 0.055,
+  "vignette": 0.38,
+  "caption": {
+    "size": 62,
+    "outline": 10,
+    "color": "#f4efe6"
+  },
+  "title": {
+    "size": 120,
+    "color": "#f4efe6"
+  },
+  "accent": "#c9a36a",
+  "looks": {
+    "night_horror": {
+      "fog_density": 0.03,
+      "ambient_energy": 0.32,
+      "saturation": 0.78
+    }
+  }
+}

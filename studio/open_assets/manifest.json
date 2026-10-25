@@ -1,0 +1,2175 @@
+{
+  "source": "Poly Haven",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "resolution": "2k",
+  "generated_at": "2026-10-22T22:37:40.477549+00:00",
+  "assets": [
+    {
+      "id": "GothicBed_01",
+      "name": "Gothic Bed 01",
+      "description": "Free 4K model of a vintage Gothic wooden four-poster bed with ornate carved headboard/footboard, rich dark finish and decorative medieval-inspired detailing.",
+      "categories": [
+        "furniture",
+        "bed"
+      ],
+      "tags": [
+        "vintage",
+        "gothic",
+        "furniture",
+        "bed",
+        "wood",
+        "decorative"
+      ],
+      "authors": {
+        "Kirill Sannikov": "All"
+      },
+      "polycount": 18741,
+      "dimensions": [
+        1493.751883506775,
+        2039.9999022483826,
+        1533.8402975614968
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/GothicBed_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "GothicBed_01.gltf",
+      "files": [
+        {
+          "path": "GothicBed_01.gltf",
+          "bytes": 2683,
+          "role": "gltf"
+        },
+        {
+          "path": "GothicBed_01.bin",
+          "bytes": 658648,
+          "role": "include"
+        },
+        {
+          "path": "textures/GothicBed_01_arm_2k.jpg",
+          "bytes": 560639,
+          "role": "include"
+        },
+        {
+          "path": "textures/GothicBed_01_diff_2k.jpg",
+          "bytes": 385789,
+          "role": "include"
+        },
+        {
+          "path": "textures/GothicBed_01_nor_gl_2k.jpg",
+          "bytes": 597156,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:29:01.346251+00:00"
+    },
+    {
+      "id": "vintage_cabinet_01",
+      "name": "Vintage Cabinet 01",
+      "description": "Free 8K model: varnished dark-wood vintage cabinet with carved detailing, glass-front upper doors, paneled lower cupboards and brass knobs.",
+      "categories": [
+        "furniture",
+        "shelves"
+      ],
+      "tags": [
+        "vintage",
+        "farmhouse",
+        "old",
+        "antique",
+        "fancy",
+        "wooden",
+        "varnished",
+        "cupboard",
+        "shelf",
+        "cabinet"
+      ],
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "polycount": 61096,
+      "dimensions": [
+        2021.7604637145996,
+        669.8037981987,
+        2235.0515127764083
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/vintage_cabinet_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "vintage_cabinet_01.gltf",
+      "files": [
+        {
+          "path": "vintage_cabinet_01.gltf",
+          "bytes": 22562,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/vintage_cabinet_01_a_arm_2k.jpg",
+          "bytes": 519873,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_cabinet_01_a_diff_2k.jpg",
+          "bytes": 415570,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_cabinet_01_a_nor_gl_2k.jpg",
+          "bytes": 375029,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_cabinet_01_a_rough_2k.jpg",
+          "bytes": 462771,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_cabinet_01_b_diff_2k.jpg",
+          "bytes": 457819,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_cabinet_01_b_nor_gl_2k.jpg",
+          "bytes": 185866,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_cabinet_01_b_rough_2k.jpg",
+          "bytes": 566084,
+          "role": "include"
+        },
+        {
+          "path": "vintage_cabinet_01.bin",
+          "bytes": 1995776,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:30:27.378277+00:00"
+    },
+    {
+      "id": "old_bed_frame",
+      "name": "Old Bed Frame",
+      "description": "Free 8K old metal bed frame with tubular rails, wire mesh base, chipped white paint and rust stains. Sturdy single-size vintage look with worn details.",
+      "categories": [
+        "collection: project_lighthouse",
+        "bed",
+        "furniture"
+      ],
+      "tags": [
+        "rusty",
+        "metal",
+        "bedroom",
+        "vintage",
+        "antique",
+        "hospital",
+        "traditional"
+      ],
+      "authors": {
+        "Luca B": "All"
+      },
+      "polycount": 49990,
+      "dimensions": [
+        904.6578407287598,
+        2001.7260313034058,
+        1201.4837953575998
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/old_bed_frame",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "old_bed_frame.gltf",
+      "files": [
+        {
+          "path": "old_bed_frame.gltf",
+          "bytes": 3326,
+          "role": "gltf"
+        },
+        {
+          "path": "old_bed_frame.bin",
+          "bytes": 1864580,
+          "role": "include"
+        },
+        {
+          "path": "textures/old_bed_frame_arm_2k.jpg",
+          "bytes": 3019467,
+          "role": "include"
+        },
+        {
+          "path": "textures/old_bed_frame_diff_2k.jpg",
+          "bytes": 2615779,
+          "role": "include"
+        },
+        {
+          "path": "textures/old_bed_frame_nor_gl_2k.jpg",
+          "bytes": 2653456,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:30:40.962480+00:00"
+    },
+    {
+      "id": "industrial_coffee_table",
+      "name": "Industrial Coffee Table",
+      "description": "Free 4K model - industrial coffee table with perforated steel frame, bolted rustic wood top; rugged workshop/garage character perfect for urban loft scenes.",
+      "categories": [
+        "furniture",
+        "table"
+      ],
+      "tags": [
+        "metal",
+        "industrial",
+        "steel",
+        "rustic",
+        "workshop",
+        "metal frame",
+        "garage",
+        "urban loft"
+      ],
+      "authors": {
+        "Ulan Cabanilla": "All"
+      },
+      "polycount": 41300,
+      "dimensions": [
+        778.2644629478455,
+        757.9282224178314,
+        638.4220765778537
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/industrial_coffee_table",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "industrial_coffee_table.gltf",
+      "files": [
+        {
+          "path": "industrial_coffee_table.gltf",
+          "bytes": 2993,
+          "role": "gltf"
+        },
+        {
+          "path": "industrial_coffee_table.bin",
+          "bytes": 1335000,
+          "role": "include"
+        },
+        {
+          "path": "textures/industrial_coffee_table_arm_2k.jpg",
+          "bytes": 2903681,
+          "role": "include"
+        },
+        {
+          "path": "textures/industrial_coffee_table_diff_2k.jpg",
+          "bytes": 2115167,
+          "role": "include"
+        },
+        {
+          "path": "textures/industrial_coffee_table_nor_gl_2k.jpg",
+          "bytes": 1925171,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:30:50.113847+00:00"
+    },
+    {
+      "id": "painted_wooden_sofa",
+      "name": "Painted Wooden Sofa",
+      "description": "Free 4K model of a painted wooden sofa - vintage outdoor bench-style couch with distressed aged paint, carved details and a simple cushion.",
+      "categories": [
+        "furniture",
+        "seating"
+      ],
+      "tags": [
+        "chair",
+        "outdoor",
+        "couch",
+        "wooden",
+        "vintage",
+        "aged"
+      ],
+      "authors": {
+        "Kirill Sannikov": "All"
+      },
+      "polycount": 5826,
+      "dimensions": [
+        2451.7107009887695,
+        787.3162031173706,
+        1281.0335159301758
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/painted_wooden_sofa",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "painted_wooden_sofa.gltf",
+      "files": [
+        {
+          "path": "painted_wooden_sofa.gltf",
+          "bytes": 2816,
+          "role": "gltf"
+        },
+        {
+          "path": "painted_wooden_sofa.bin",
+          "bytes": 186956,
+          "role": "include"
+        },
+        {
+          "path": "textures/painted_wooden_sofa_arm_2k.jpg",
+          "bytes": 2299562,
+          "role": "include"
+        },
+        {
+          "path": "textures/painted_wooden_sofa_diff_2k.jpg",
+          "bytes": 2291181,
+          "role": "include"
+        },
+        {
+          "path": "textures/painted_wooden_sofa_nor_gl_2k.jpg",
+          "bytes": 2297855,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:31:00.125850+00:00"
+    },
+    {
+      "id": "vintage_radio_transceiver",
+      "name": "Vintage Radio Transceiver",
+      "description": "Free 4K model of a vintage military radio transceiver with weathered olive-drab case, frequency dial, cables, whip antenna, desk mic and Morse key.",
+      "categories": [
+        "appliances",
+        "electronics",
+        "collection: project_lighthouse"
+      ],
+      "tags": [
+        "military",
+        "army",
+        "communications",
+        "frequency dial",
+        "field radio",
+        "radio",
+        "ww2",
+        "telegraph",
+        "handset",
+        "microphone"
+      ],
+      "authors": {
+        "Mateusz Sadek": "All"
+      },
+      "polycount": 42350,
+      "dimensions": [
+        618.1803643703461,
+        417.8741127252579,
+        434.39279100857675
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/vintage_radio_transceiver",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "vintage_radio_transceiver.gltf",
+      "files": [
+        {
+          "path": "vintage_radio_transceiver.gltf",
+          "bytes": 25848,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/vintage_radio_transceiver_accessories_arm_2k.jpg",
+          "bytes": 3430814,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_radio_transceiver_accessories_diff_2k.jpg",
+          "bytes": 2759700,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_radio_transceiver_accessories_nor_gl_2k.jpg",
+          "bytes": 1927802,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_radio_transceiver_arm_2k.jpg",
+          "bytes": 3683828,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_radio_transceiver_diff_2k.jpg",
+          "bytes": 2978698,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_radio_transceiver_nor_gl_2k.jpg",
+          "bytes": 1809010,
+          "role": "include"
+        },
+        {
+          "path": "vintage_radio_transceiver.bin",
+          "bytes": 1740024,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:31:29.285811+00:00"
+    },
+    {
+      "id": "vintage_telephone_wall_clock",
+      "name": "Vintage Telephone Wall Clock",
+      "description": "Free 4k model of a vintage red metal telephone wall clock with chipped paint, rotary-style dial, ornate clock hands and a worn, tarnished handset.",
+      "categories": [
+        "props",
+        "decorative",
+        "wall decoration",
+        "collection: project_lighthouse"
+      ],
+      "tags": [
+        "old",
+        "vintage",
+        "antique",
+        "rotary phone",
+        "ornate",
+        "red"
+      ],
+      "authors": {
+        "Adrian C": "All"
+      },
+      "polycount": 15864,
+      "dimensions": [
+        342.80551970005035,
+        192.5630047917366,
+        501.2321323156357
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/vintage_telephone_wall_clock",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "vintage_telephone_wall_clock.gltf",
+      "files": [
+        {
+          "path": "vintage_telephone_wall_clock.gltf",
+          "bytes": 4883,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/vintage_telephone_wall_clock_arm_2k.jpg",
+          "bytes": 3955492,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_telephone_wall_clock_diff_2k.jpg",
+          "bytes": 1916905,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_telephone_wall_clock_nor_gl_2k.jpg",
+          "bytes": 2883458,
+          "role": "include"
+        },
+        {
+          "path": "vintage_telephone_wall_clock.bin",
+          "bytes": 504176,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:31:47.192245+00:00"
+    },
+    {
+      "id": "portable_cassette_player",
+      "name": "Portable Cassette Player",
+      "description": "Free 4K model of a weathered teal portable cassette player and scratched black cassette, detailed labels, radio dial, tactile buttons and scuffed plastic.",
+      "categories": [
+        "collection: project_lighthouse",
+        "props",
+        "electronics"
+      ],
+      "tags": [
+        "old",
+        "vintage",
+        "cassette tape",
+        "tape",
+        "retro",
+        "analog",
+        "walkman"
+      ],
+      "authors": {
+        "Mateusz Sadek": "All"
+      },
+      "polycount": 13307,
+      "dimensions": [
+        172.25529998540878,
+        39.671553298830986,
+        130.30561804771423
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/portable_cassette_player",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "portable_cassette_player.gltf",
+      "files": [
+        {
+          "path": "portable_cassette_player.gltf",
+          "bytes": 9340,
+          "role": "gltf"
+        },
+        {
+          "path": "portable_cassette_player.bin",
+          "bytes": 511012,
+          "role": "include"
+        },
+        {
+          "path": "textures/portable_cassette_player_arm_2k.jpg",
+          "bytes": 3574183,
+          "role": "include"
+        },
+        {
+          "path": "textures/portable_cassette_player_diff_2k.jpg",
+          "bytes": 2241949,
+          "role": "include"
+        },
+        {
+          "path": "textures/portable_cassette_player_nor_gl_2k.jpg",
+          "bytes": 1509273,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:32:03.324484+00:00"
+    },
+    {
+      "id": "old_gas_mask",
+      "name": "Old Gas Mask",
+      "description": "Free 8K vintage gas mask model with cracked rubber hood, foggy round lenses, metal fittings, long corrugated hose, and ribbed green filter, worn and grimy.",
+      "categories": [
+        "collection: project_lighthouse",
+        "props",
+        "industrial",
+        "tools"
+      ],
+      "tags": [
+        "vintage",
+        "respirator",
+        "antique",
+        "airfilter",
+        "warfare",
+        "chemical",
+        "gasmask",
+        "postapocalyptic"
+      ],
+      "authors": {
+        "Michał Wiśniewski": "All"
+      },
+      "polycount": 18900,
+      "dimensions": [
+        210.5255424976349,
+        308.7272718548775,
+        1125.6647408008575
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/old_gas_mask",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "old_gas_mask.gltf",
+      "files": [
+        {
+          "path": "old_gas_mask.gltf",
+          "bytes": 2773,
+          "role": "gltf"
+        },
+        {
+          "path": "old_gas_mask.bin",
+          "bytes": 535000,
+          "role": "include"
+        },
+        {
+          "path": "textures/old_gas_mask_arm_2k.jpg",
+          "bytes": 2830866,
+          "role": "include"
+        },
+        {
+          "path": "textures/old_gas_mask_diff_2k.jpg",
+          "bytes": 1738685,
+          "role": "include"
+        },
+        {
+          "path": "textures/old_gas_mask_nor_gl_2k.jpg",
+          "bytes": 1933705,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:32:19.097119+00:00"
+    },
+    {
+      "id": "vintage_suitcase",
+      "name": "Vintage Suitcase",
+      "description": "Free 8K vintage suitcase model with worn green leather, stitched edges, rusted clasps and weathered travel stickers, showing rustic, hand-made aged character.",
+      "categories": [
+        "decorative",
+        "props"
+      ],
+      "tags": [
+        "vintage",
+        "old",
+        "hand made",
+        "stickers",
+        "travel",
+        "garbage",
+        "suitcase",
+        "trunk",
+        "rustic",
+        "luggage",
+        "worn",
+        "aged"
+      ],
+      "authors": {
+        "Maximilian Schuster": "All"
+      },
+      "polycount": 16474,
+      "dimensions": [
+        1608.1829071044922,
+        239.17551338672638,
+        567.9050989929237
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/vintage_suitcase",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "vintage_suitcase.gltf",
+      "files": [
+        {
+          "path": "vintage_suitcase.gltf",
+          "bytes": 15481,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/vintage_suitcase_01_arm_2k.jpg",
+          "bytes": 2614773,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_suitcase_01_diff_2k.jpg",
+          "bytes": 1630101,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_suitcase_01_nor_gl_2k.jpg",
+          "bytes": 3329048,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_suitcase_02_arm_2k.jpg",
+          "bytes": 2609666,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_suitcase_02_diff_2k.jpg",
+          "bytes": 1748997,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_suitcase_02_nor_gl_2k.jpg",
+          "bytes": 3330492,
+          "role": "include"
+        },
+        {
+          "path": "vintage_suitcase.bin",
+          "bytes": 467856,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:32:35.278027+00:00"
+    },
+    {
+      "id": "wine_bottles_01",
+      "name": "Wine Bottles 01",
+      "description": "Free 8K model of four wine and champagne bottles with realistic glass, varied labels, foil/wax tops and subtle wear, evoking a rustic vineyard farmhouse character.",
+      "categories": [
+        "props",
+        "containers",
+        "dishes"
+      ],
+      "tags": [
+        "wine",
+        "drink",
+        "bottle",
+        "champagne",
+        "grape",
+        "farmhouse",
+        "vineyard"
+      ],
+      "authors": {
+        "Rico Cilliers": "modeling",
+        "Jurita Burger": "graphic design"
+      },
+      "polycount": 28848,
+      "dimensions": [
+        676.3246953487396,
+        80.56290075182915,
+        331.367195234634
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/wine_bottles_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "wine_bottles_01.gltf",
+      "files": [
+        {
+          "path": "wine_bottles_01.gltf",
+          "bytes": 29107,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/wine_bottles_01_arm_2k.jpg",
+          "bytes": 1548488,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_diff_2k.jpg",
+          "bytes": 351644,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_clearwater_crystals_01_arm_2k.jpg",
+          "bytes": 397913,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_clearwater_crystals_01_diff_2k.jpg",
+          "bytes": 367844,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_ftero_vinea_01_arm_2k.jpg",
+          "bytes": 726298,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_ftero_vinea_01_diff_2k.jpg",
+          "bytes": 975465,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_ftero_vinea_02_arm_2k.jpg",
+          "bytes": 599820,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_ftero_vinea_02_diff_2k.jpg",
+          "bytes": 762073,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_intertwine_01_arm_2k.jpg",
+          "bytes": 300801,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_label_intertwine_01_diff_2k.jpg",
+          "bytes": 390031,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_nor_gl_2k.jpg",
+          "bytes": 649231,
+          "role": "include"
+        },
+        {
+          "path": "textures/wine_bottles_01_paper_nor_gl_2k.jpg",
+          "bytes": 4500749,
+          "role": "include"
+        },
+        {
+          "path": "wine_bottles_01.bin",
+          "bytes": 688000,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:32:58.214083+00:00"
+    },
+    {
+      "id": "wheelchair_01",
+      "name": "Wheelchair 01",
+      "description": "Free 4K model. Folding wheelchair with teal padded vinyl seat and back, chrome tubular frame, spoked rear wheels, small front casters and subtle surface wear.",
+      "categories": [
+        "props"
+      ],
+      "tags": [
+        "infirmary",
+        "hospital",
+        "wheelchair",
+        "medical",
+        "clinic",
+        "mobilityaid",
+        "foldingwheelchair"
+      ],
+      "authors": {
+        "Garreth Dean": "All"
+      },
+      "polycount": 40252,
+      "dimensions": [
+        824.0909576416016,
+        1090.866893529892,
+        1103.5015587694943
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/wheelchair_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "wheelchair_01.gltf",
+      "files": [
+        {
+          "path": "wheelchair_01.gltf",
+          "bytes": 2702,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/wheelchair_01_arm_2k.jpg",
+          "bytes": 733301,
+          "role": "include"
+        },
+        {
+          "path": "textures/wheelchair_01_diff_2k.jpg",
+          "bytes": 394165,
+          "role": "include"
+        },
+        {
+          "path": "textures/wheelchair_01_nor_gl_2k.jpg",
+          "bytes": 622579,
+          "role": "include"
+        },
+        {
+          "path": "wheelchair_01.bin",
+          "bytes": 1183752,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:33:05.876217+00:00"
+    },
+    {
+      "id": "hanging_industrial_lamp",
+      "name": "Hanging Industrial Lamp",
+      "description": "Free 4K model of a hanging industrial metal lamp with chipped green paint, chain-and-cable suspension, protective wire cage and weathered, scratched surfaces.",
+      "categories": [
+        "lighting"
+      ],
+      "tags": [
+        "industrial lighting",
+        "hanging lamp",
+        "warehouse lighting",
+        "bunker",
+        "metal lamp",
+        "factory",
+        "warehouse"
+      ],
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "polycount": 9530,
+      "dimensions": [
+        549.6065020561218,
+        549.606442451477,
+        1355.3501134738326
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/hanging_industrial_lamp",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "hanging_industrial_lamp.gltf",
+      "files": [
+        {
+          "path": "hanging_industrial_lamp.gltf",
+          "bytes": 5436,
+          "role": "gltf"
+        },
+        {
+          "path": "hanging_industrial_lamp.bin",
+          "bytes": 344252,
+          "role": "include"
+        },
+        {
+          "path": "textures/hanging_industrial_lamp_arm_2k.jpg",
+          "bytes": 3131470,
+          "role": "include"
+        },
+        {
+          "path": "textures/hanging_industrial_lamp_diff_2k.jpg",
+          "bytes": 2822561,
+          "role": "include"
+        },
+        {
+          "path": "textures/hanging_industrial_lamp_emissive_2k.jpg",
+          "bytes": 129864,
+          "role": "include"
+        },
+        {
+          "path": "textures/hanging_industrial_lamp_glass_nor_gl_2k.jpg",
+          "bytes": 2355589,
+          "role": "include"
+        },
+        {
+          "path": "textures/hanging_industrial_lamp_nor_gl_2k.jpg",
+          "bytes": 3184982,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:33:18.509297+00:00"
+    },
+    {
+      "id": "vintage_oil_lamp",
+      "name": "Vintage Oil Lamp",
+      "description": "Free 4K model, ornate Victorian oil lamp with brass base, floral porcelain globe, tall glass chimney and lit wick - detailed antique decorative charm.",
+      "categories": [
+        "lighting",
+        "decorative"
+      ],
+      "tags": [
+        "lamp",
+        "oil",
+        "antique",
+        "victorian",
+        "manor",
+        "historic"
+      ],
+      "authors": {
+        "Monsta3D": "All"
+      },
+      "polycount": 7208,
+      "dimensions": [
+        219.9999988079071,
+        219.9999913573265,
+        801.6371909276536
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/vintage_oil_lamp",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "vintage_oil_lamp.gltf",
+      "files": [
+        {
+          "path": "vintage_oil_lamp.gltf",
+          "bytes": 7786,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/vintage_oil_lamp_arm_2k.jpg",
+          "bytes": 2316286,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_oil_lamp_diff_2k.jpg",
+          "bytes": 1882113,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_oil_lamp_flame_diff_2k.jpg",
+          "bytes": 289813,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_oil_lamp_glass_arm_2k.jpg",
+          "bytes": 1011826,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_oil_lamp_glass_diff_2k.jpg",
+          "bytes": 139929,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_oil_lamp_glass_nor_gl_2k.jpg",
+          "bytes": 144781,
+          "role": "include"
+        },
+        {
+          "path": "textures/vintage_oil_lamp_nor_gl_2k.jpg",
+          "bytes": 658966,
+          "role": "include"
+        },
+        {
+          "path": "vintage_oil_lamp.bin",
+          "bytes": 186096,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:33:39.554414+00:00"
+    },
+    {
+      "id": "industrial_caged_sconce",
+      "name": "Industrial Caged Sconce",
+      "description": "Free 4K industrial wall sconce model with caged frosted glass, weathered black steel, yellow valve cap, wall plate, and modular single or double pipe setups.",
+      "categories": [
+        "collection: project_lighthouse",
+        "lighting",
+        "industrial"
+      ],
+      "tags": [
+        "caged lamp",
+        "pipe fixture",
+        "guarded light",
+        "utility lighting",
+        "warehouse",
+        "factory",
+        "bunker",
+        "wall light",
+        "modular",
+        "heavy duty"
+      ],
+      "authors": {
+        "Ulan Cabanilla": "All"
+      },
+      "polycount": 26576,
+      "dimensions": [
+        1210.1812362670898,
+        389.4345611333847,
+        912.8422662615776
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/industrial_caged_sconce",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "industrial_caged_sconce.gltf",
+      "files": [
+        {
+          "path": "industrial_caged_sconce.gltf",
+          "bytes": 18429,
+          "role": "gltf"
+        },
+        {
+          "path": "industrial_caged_sconce.bin",
+          "bytes": 949472,
+          "role": "include"
+        },
+        {
+          "path": "textures/industrial_caged_sconce_arm_2k.jpg",
+          "bytes": 2657051,
+          "role": "include"
+        },
+        {
+          "path": "textures/industrial_caged_sconce_diff_2k.jpg",
+          "bytes": 2158194,
+          "role": "include"
+        },
+        {
+          "path": "textures/industrial_caged_sconce_emissive_2k.jpg",
+          "bytes": 153520,
+          "role": "include"
+        },
+        {
+          "path": "textures/industrial_caged_sconce_nor_gl_2k.jpg",
+          "bytes": 2506015,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:33:57.131020+00:00"
+    },
+    {
+      "id": "street_lamp_01",
+      "name": "Street Lamp 01",
+      "description": "Free 8K model: ornate cast-iron street lamp with glass panes, exposed bulb, weathered black finish and detailed base, finial and mounting hardware.",
+      "categories": [
+        "lighting",
+        "industrial",
+        "collection: hidden_alley"
+      ],
+      "tags": [
+        "street",
+        "road",
+        "light",
+        "lamppost",
+        "outdoor",
+        "pole",
+        "sidewalk",
+        "night",
+        " urban",
+        "city"
+      ],
+      "authors": {
+        "Josh Dean": "All"
+      },
+      "polycount": 30610,
+      "dimensions": [
+        704.3362259864807,
+        386.49316132068634,
+        3870.5554008483887
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/street_lamp_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "street_lamp_01.gltf",
+      "files": [
+        {
+          "path": "street_lamp_01.gltf",
+          "bytes": 6419,
+          "role": "gltf"
+        },
+        {
+          "path": "street_lamp_01.bin",
+          "bytes": 748908,
+          "role": "include"
+        },
+        {
+          "path": "textures/street_lamp_01_arm_2k.jpg",
+          "bytes": 2332682,
+          "role": "include"
+        },
+        {
+          "path": "textures/street_lamp_01_diff_2k.jpg",
+          "bytes": 993834,
+          "role": "include"
+        },
+        {
+          "path": "textures/street_lamp_01_nor_gl_2k.jpg",
+          "bytes": 1827395,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:34:09.904901+00:00"
+    },
+    {
+      "id": "large_castle_door",
+      "name": "Large Castle Door",
+      "description": "Free 4K model - arched medieval double wooden door with weathered wood, iron straps, rivets, ring handles and small barred windows; fortified character.",
+      "categories": [
+        "structures",
+        "buildings",
+        "collection: hidden_alley"
+      ],
+      "tags": [
+        "fort",
+        "castle",
+        "gate",
+        "door",
+        "entrance",
+        "stronghold",
+        "fortified gate",
+        "crusades"
+      ],
+      "authors": {
+        "Tina": "All"
+      },
+      "polycount": 12640,
+      "dimensions": [
+        2012.115716934204,
+        338.9068990945816,
+        2964.752435684204
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/large_castle_door",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "large_castle_door.gltf",
+      "files": [
+        {
+          "path": "large_castle_door.gltf",
+          "bytes": 6111,
+          "role": "gltf"
+        },
+        {
+          "path": "large_castle_door.bin",
+          "bytes": 422436,
+          "role": "include"
+        },
+        {
+          "path": "textures/large_castle_door_arm_2k.jpg",
+          "bytes": 3723833,
+          "role": "include"
+        },
+        {
+          "path": "textures/large_castle_door_diff_2k.jpg",
+          "bytes": 3105682,
+          "role": "include"
+        },
+        {
+          "path": "textures/large_castle_door_nor_gl_2k.jpg",
+          "bytes": 4281351,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:34:21.875164+00:00"
+    },
+    {
+      "id": "large_iron_gate",
+      "name": "Large Iron Gate",
+      "description": "Free 8K model - large cast-iron double gate with arched tops, ring motifs, spear finials and weathered rust; ornate, sturdy entrance panels.",
+      "categories": [
+        "structures",
+        "buildings",
+        "collection: hidden_alley"
+      ],
+      "tags": [
+        "gate",
+        "entrance",
+        "drive way",
+        "cast iron",
+        "iron",
+        "stylish",
+        "security"
+      ],
+      "authors": {
+        "Josh Dean": "All"
+      },
+      "polycount": 38140,
+      "dimensions": [
+        2950.09183883667,
+        97.33648598194122,
+        2928.6537868902087
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/large_iron_gate",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "large_iron_gate.gltf",
+      "files": [
+        {
+          "path": "large_iron_gate.gltf",
+          "bytes": 7101,
+          "role": "gltf"
+        },
+        {
+          "path": "large_iron_gate.bin",
+          "bytes": 971848,
+          "role": "include"
+        },
+        {
+          "path": "textures/large_iron_gate_arm_2k.jpg",
+          "bytes": 2862243,
+          "role": "include"
+        },
+        {
+          "path": "textures/large_iron_gate_diff_2k.jpg",
+          "bytes": 2170270,
+          "role": "include"
+        },
+        {
+          "path": "textures/large_iron_gate_nor_gl_2k.jpg",
+          "bytes": 2786152,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:34:27.546552+00:00"
+    },
+    {
+      "id": "modular_fire_escape",
+      "name": "Modular Fire Escape",
+      "description": "Free 8K modular fire escape model with grated platforms, straight ladder and angled stair sections, welded railings and subtle weathered metal detail.",
+      "categories": [
+        "industrial",
+        "structures",
+        "collection: hidden_alley"
+      ],
+      "tags": [
+        "modular",
+        "pieces",
+        "emergency",
+        "building",
+        "urban",
+        "evacuation",
+        "safety",
+        "fire egress",
+        "stairs",
+        "utility",
+        "infrastructure"
+      ],
+      "authors": {
+        "Juniix": "All"
+      },
+      "polycount": 11322,
+      "dimensions": [
+        6661.200046539307,
+        1420.7648038864136,
+        9756.551027297974
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/modular_fire_escape",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "modular_fire_escape.gltf",
+      "files": [
+        {
+          "path": "modular_fire_escape.gltf",
+          "bytes": 13672,
+          "role": "gltf"
+        },
+        {
+          "path": "modular_fire_escape.bin",
+          "bytes": 515356,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_fire_escape_01_arm_2k.jpg",
+          "bytes": 2727166,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_fire_escape_01_diff_2k.jpg",
+          "bytes": 2123381,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_fire_escape_01_nor_gl_2k.jpg",
+          "bytes": 2451897,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_fire_escape_02_arm_2k.jpg",
+          "bytes": 2874079,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_fire_escape_02_diff_2k.jpg",
+          "bytes": 2271643,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_fire_escape_02_nor_gl_2k.jpg",
+          "bytes": 3800107,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:34:37.959017+00:00"
+    },
+    {
+      "id": "modular_pipes",
+      "name": "Modular Pipes",
+      "description": "Free 8K modular pipes model: metal & plastic pipes, fittings and valves with rusted, weathered finish - modular kit for industrial, utility and sewer scenes.",
+      "categories": [
+        "industrial",
+        "structures"
+      ],
+      "tags": [
+        "construction",
+        "piping",
+        "plumbing",
+        "infrastructure",
+        "metal",
+        "plastic",
+        "rusted",
+        "water supply",
+        "drainage",
+        "maintenance",
+        "engineering",
+        "utility",
+        "underground",
+        "sewer",
+        "drain"
+      ],
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "polycount": 47428,
+      "dimensions": [
+        4187.440872192383,
+        457.7658101916313,
+        2434.948639709063
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/modular_pipes",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "modular_pipes.gltf",
+      "files": [
+        {
+          "path": "modular_pipes.gltf",
+          "bytes": 107409,
+          "role": "gltf"
+        },
+        {
+          "path": "modular_pipes.bin",
+          "bytes": 1465048,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_pipes_metal_arm_2k.jpg",
+          "bytes": 2842131,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_pipes_metal_diff_2k.jpg",
+          "bytes": 2943820,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_pipes_metal_nor_gl_2k.jpg",
+          "bytes": 2863810,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_pipes_pvc_arm_2k.jpg",
+          "bytes": 3132685,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_pipes_pvc_diff_2k.jpg",
+          "bytes": 2818594,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_pipes_pvc_nor_gl_2k.jpg",
+          "bytes": 2313228,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:35:00.872075+00:00"
+    },
+    {
+      "id": "modular_airduct_rectangular_01",
+      "name": "Modular Airduct Rectangular 01",
+      "description": "Free 8K modular airduct set: realistic rectangular metal vents, elbows, joints and grilles. Industrial, workshop/warehouse-ready with detailed, worn-metal finish",
+      "categories": [
+        "industrial"
+      ],
+      "tags": [
+        "vent",
+        "airduct",
+        "modular",
+        "pieces",
+        "workshop",
+        "warehouse",
+        "rectangular",
+        "metal",
+        "airvent",
+        "utility",
+        "infrastructure"
+      ],
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "polycount": 45090,
+      "dimensions": [
+        7663.504123687744,
+        2586.645245552063,
+        1256.1511993408203
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/modular_airduct_rectangular_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "modular_airduct_rectangular_01.gltf",
+      "files": [
+        {
+          "path": "modular_airduct_rectangular_01.gltf",
+          "bytes": 37157,
+          "role": "gltf"
+        },
+        {
+          "path": "modular_airduct_rectangular_01.bin",
+          "bytes": 1795116,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_airduct_rectangular_01_parts01_arm_2k.jpg",
+          "bytes": 775803,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_airduct_rectangular_01_parts01_diff_2k.jpg",
+          "bytes": 602952,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_airduct_rectangular_01_parts01_nor_gl_2k.jpg",
+          "bytes": 210877,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_airduct_rectangular_01_parts02_arm_2k.jpg",
+          "bytes": 583018,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_airduct_rectangular_01_parts02_diff_2k.jpg",
+          "bytes": 544079,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_airduct_rectangular_01_parts02_nor_gl_2k.jpg",
+          "bytes": 276798,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:35:17.907321+00:00"
+    },
+    {
+      "id": "modular_urban_apartments_facade",
+      "name": "Modular Urban Apartments Facade",
+      "description": "Free 8K modular urban apartments facade: contemporary residential modules with doors, windows, trim and corner pieces for quick, customizable city building kits.",
+      "categories": [
+        "collection: hidden_alley",
+        "structures",
+        "buildings"
+      ],
+      "tags": [
+        "building",
+        "urban",
+        "modular",
+        "contemporary",
+        "apartments",
+        "city",
+        "home",
+        "house",
+        "architecture",
+        "residential"
+      ],
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "polycount": 118215,
+      "dimensions": [
+        51529.99687194824,
+        6664.999693632126,
+        17000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/modular_urban_apartments_facade",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "modular_urban_apartments_facade.gltf",
+      "files": [
+        {
+          "path": "modular_urban_apartments_facade.gltf",
+          "bytes": 270799,
+          "role": "gltf"
+        },
+        {
+          "path": "modular_urban_apartments_facade.bin",
+          "bytes": 8168772,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_objects_arm_2k.jpg",
+          "bytes": 2748860,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_objects_diff_2k.jpg",
+          "bytes": 2013153,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_objects_nor_gl_2k.jpg",
+          "bytes": 2064585,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_plaster_arm_2k.jpg",
+          "bytes": 2352206,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_plaster_diff_2k.jpg",
+          "bytes": 2238064,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_plaster_nor_gl_2k.jpg",
+          "bytes": 4895944,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_trim_01_arm_2k.jpg",
+          "bytes": 2559719,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_trim_01_diff_2k.jpg",
+          "bytes": 2198191,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_trim_01_nor_gl_2k.jpg",
+          "bytes": 3610799,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_trim_02_arm_2k.jpg",
+          "bytes": 2887047,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_trim_02_diff_2k.jpg",
+          "bytes": 1991640,
+          "role": "include"
+        },
+        {
+          "path": "textures/modular_urban_apartments_facade_trim_02_nor_gl_2k.jpg",
+          "bytes": 3427345,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:35:50.097946+00:00"
+    },
+    {
+      "id": "dead_tree_trunk",
+      "name": "Dead Tree Trunk",
+      "description": "Free 8K dead tree trunk model, a long weathered log with cracked, decayed bark, pronounced wood grain, broken ends and subtle mossy-green patches.",
+      "categories": [
+        "nature",
+        "plants",
+        "ground cover",
+        "collection: pine_forest",
+        "collection: verdant_trail"
+      ],
+      "tags": [
+        "log",
+        "dead tree",
+        "tree",
+        "trunk",
+        "bark",
+        "natural",
+        "foliage",
+        "nature",
+        "forest",
+        "plant",
+        "dead",
+        "dry",
+        "woodland",
+        "decayed",
+        "rough texture",
+        "forest floor"
+      ],
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "polycount": 101802,
+      "dimensions": [
+        3051.015019416809,
+        277.52751111984253,
+        290.43155536055565
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/dead_tree_trunk",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "dead_tree_trunk.gltf",
+      "files": [
+        {
+          "path": "dead_tree_trunk.gltf",
+          "bytes": 2812,
+          "role": "gltf"
+        },
+        {
+          "path": "dead_tree_trunk.bin",
+          "bytes": 2293788,
+          "role": "include"
+        },
+        {
+          "path": "textures/dead_tree_trunk_arm_2k.jpg",
+          "bytes": 2608763,
+          "role": "include"
+        },
+        {
+          "path": "textures/dead_tree_trunk_diff_2k.jpg",
+          "bytes": 2580084,
+          "role": "include"
+        },
+        {
+          "path": "textures/dead_tree_trunk_nor_gl_2k.jpg",
+          "bytes": 3804907,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:36:01.719642+00:00"
+    },
+    {
+      "id": "tree_stump_01",
+      "name": "Tree Stump 01",
+      "description": "Free 8K model of a decayed tree stump with exposed roots, rough bark, moss patches and leaf-littered forest floor detail.",
+      "categories": [
+        "nature",
+        "plants",
+        "ground cover",
+        "trees",
+        "collection: pine_forest"
+      ],
+      "tags": [
+        "tree",
+        "trunk",
+        "stump",
+        "dead tree",
+        "bark",
+        "forest",
+        "natural",
+        "nature",
+        "woodland",
+        "foliage",
+        "environment",
+        "forest floor",
+        "leaf",
+        "dead",
+        "roots",
+        "decayed",
+        "log",
+        "dry",
+        "mossy",
+        "debris",
+        "ground cover",
+        "moss",
+        "rough texture"
+      ],
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "polycount": 41046,
+      "dimensions": [
+        1425.5504608154297,
+        1590.3143286705017,
+        572.6675391197205
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/tree_stump_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "tree_stump_01.gltf",
+      "files": [
+        {
+          "path": "tree_stump_01.gltf",
+          "bytes": 2793,
+          "role": "gltf"
+        },
+        {
+          "path": "textures/tree_stump_01_arm_2k.jpg",
+          "bytes": 2801595,
+          "role": "include"
+        },
+        {
+          "path": "textures/tree_stump_01_diff_2k.jpg",
+          "bytes": 3189746,
+          "role": "include"
+        },
+        {
+          "path": "textures/tree_stump_01_nor_gl_2k.jpg",
+          "bytes": 4415649,
+          "role": "include"
+        },
+        {
+          "path": "tree_stump_01.bin",
+          "bytes": 965380,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:36:13.435799+00:00"
+    },
+    {
+      "id": "rock_face_01",
+      "name": "Rock Face 01",
+      "description": "Free 8K model of a weathered rock face with layered sedimentary strata, rugged cracks, lichen patches and subtle blue-red mineral tones.",
+      "categories": [
+        "rocks",
+        "nature",
+        "collection: verdant_trail"
+      ],
+      "tags": [
+        "cliff",
+        "landscape",
+        "rock face",
+        "rock",
+        "formation",
+        "geology",
+        "weathered",
+        "lichen",
+        "rugged",
+        "outdoors",
+        "rocky surface",
+        "environment",
+        "natural"
+      ],
+      "authors": {
+        "Dario Barresi": "All"
+      },
+      "polycount": 20174,
+      "dimensions": [
+        7108.232021331787,
+        5624.304533004761,
+        4980.4371148347855
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/rock_face_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "rock_face_01.gltf",
+      "files": [
+        {
+          "path": "rock_face_01.gltf",
+          "bytes": 2793,
+          "role": "gltf"
+        },
+        {
+          "path": "rock_face_01.bin",
+          "bytes": 476436,
+          "role": "include"
+        },
+        {
+          "path": "textures/rock_face_01_arm_2k.jpg",
+          "bytes": 2592972,
+          "role": "include"
+        },
+        {
+          "path": "textures/rock_face_01_diff_2k.jpg",
+          "bytes": 3167302,
+          "role": "include"
+        },
+        {
+          "path": "textures/rock_face_01_nor_gl_2k.jpg",
+          "bytes": 3970196,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:36:24.166706+00:00"
+    },
+    {
+      "id": "moss_01",
+      "name": "Moss 01",
+      "description": "Free 4K model - dense, lush ground-cover moss clump with fine fronds, varied green tones and realistic undergrowth geometry.",
+      "categories": [
+        "nature",
+        "plants",
+        "ground cover",
+        "collection: pine_forest"
+      ],
+      "tags": [
+        "moss",
+        "ground cover",
+        "forest",
+        "woodland",
+        "foliage",
+        "nature",
+        "plant",
+        "natural",
+        "botany",
+        "small",
+        "geometry nodes",
+        "outdoor",
+        "undergrowth",
+        "vegetation",
+        "shrubs"
+      ],
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "polycount": 246170,
+      "dimensions": [
+        838.9523178339005,
+        300.28730630874634,
+        298.94982278347015
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/moss_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "moss_01.gltf",
+      "files": [
+        {
+          "path": "moss_01.gltf",
+          "bytes": 18481,
+          "role": "gltf"
+        },
+        {
+          "path": "moss_01.bin",
+          "bytes": 7260,
+          "role": "include"
+        },
+        {
+          "path": "textures/moss_01_arm_2k.jpg",
+          "bytes": 1095803,
+          "role": "include"
+        },
+        {
+          "path": "textures/moss_01_diff_2k.jpg",
+          "bytes": 511727,
+          "role": "include"
+        },
+        {
+          "path": "textures/moss_01_nor_gl_2k.jpg",
+          "bytes": 1632699,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:36:33.869592+00:00"
+    },
+    {
+      "id": "coastal_cliff_01",
+      "name": "Coastal Cliff 01",
+      "description": "Free 8K coastal cliff model featuring weathered rock faces, eroded overhangs, grassy top edge, detailed strata, moss and crevice-rich shoreline geometry.",
+      "categories": [
+        "nature",
+        "collection: smugglers_cove"
+      ],
+      "tags": [
+        "cliff",
+        "ocean",
+        "rocks",
+        "maritime",
+        "cove",
+        "formation",
+        "rock face",
+        "seaside",
+        "landscape",
+        "geology",
+        "shore",
+        "shoreline",
+        "coastal",
+        "stones",
+        "rock",
+        "coastal formations"
+      ],
+      "authors": {
+        "Rob Tuytel": "Photography, processing",
+        "Rico Cilliers": "cleanup"
+      },
+      "polycount": 865917,
+      "dimensions": [
+        91979.95376586914,
+        10966.708660125732,
+        10329.669952392578
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/coastal_cliff_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "coastal_cliff_01.gltf",
+      "files": [
+        {
+          "path": "coastal_cliff_01.gltf",
+          "bytes": 2825,
+          "role": "gltf"
+        },
+        {
+          "path": "coastal_cliff_01.bin",
+          "bytes": 13179840,
+          "role": "include"
+        },
+        {
+          "path": "textures/coastal_cliff_01_arm_2k.jpg",
+          "bytes": 2181608,
+          "role": "include"
+        },
+        {
+          "path": "textures/coastal_cliff_01_diff_2k.jpg",
+          "bytes": 2465846,
+          "role": "include"
+        },
+        {
+          "path": "textures/coastal_cliff_01_nor_gl_2k.jpg",
+          "bytes": 3054804,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:36:54.822998+00:00"
+    },
+    {
+      "id": "gothic_statue",
+      "name": "Gothic Statue",
+      "description": "Free 8K model of a weathered gothic statue: robed, veiled figure with crown, heavy chains, book and sword. Mossy stone, chipped edges, detailed base.",
+      "categories": [
+        "collection: project_lighthouse",
+        "decorative"
+      ],
+      "tags": [
+        "old",
+        "stones",
+        "sculpture",
+        "medieval",
+        "statue",
+        "artwork",
+        "ornamental",
+        "gothic",
+        "weathered",
+        "ornate"
+      ],
+      "authors": {
+        "Benny Weimer": "All"
+      },
+      "polycount": 27739,
+      "dimensions": [
+        1477.4640202522278,
+        1563.7580156326294,
+        1739.8978471755981
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/gothic_statue",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "gothic_statue.gltf",
+      "files": [
+        {
+          "path": "gothic_statue.gltf",
+          "bytes": 2900,
+          "role": "gltf"
+        },
+        {
+          "path": "gothic_statue.bin",
+          "bytes": 912484,
+          "role": "include"
+        },
+        {
+          "path": "textures/gothic_statue_arm_2k.jpg",
+          "bytes": 3258126,
+          "role": "include"
+        },
+        {
+          "path": "textures/gothic_statue_diff_2k.jpg",
+          "bytes": 3663305,
+          "role": "include"
+        },
+        {
+          "path": "textures/gothic_statue_nor_gl_2k.jpg",
+          "bytes": 3282839,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:37:11.628730+00:00"
+    },
+    {
+      "id": "ornate_mirror_01",
+      "name": "Ornate Mirror 01",
+      "description": "Free 8K model - Victorian-style arched mirror with gilded floral crest, carved rope trim and aged, speckled glass showing subtle patina.",
+      "categories": [
+        "decorative",
+        "wall decoration",
+        "furniture"
+      ],
+      "tags": [
+        "decor",
+        "decoration",
+        "ornate",
+        "fancy",
+        "wealthy",
+        "mansion",
+        "manor",
+        "vintage",
+        "victorian",
+        "floral",
+        "gold",
+        "mirror"
+      ],
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "polycount": 14246,
+      "dimensions": [
+        486.4957332611084,
+        25.958335027098656,
+        744.1554069519043
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/ornate_mirror_01",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "ornate_mirror_01.gltf",
+      "files": [
+        {
+          "path": "ornate_mirror_01.gltf",
+          "bytes": 2697,
+          "role": "gltf"
+        },
+        {
+          "path": "ornate_mirror_01.bin",
+          "bytes": 372772,
+          "role": "include"
+        },
+        {
+          "path": "textures/ornate_mirror_01_arm_2k.jpg",
+          "bytes": 398803,
+          "role": "include"
+        },
+        {
+          "path": "textures/ornate_mirror_01_diff_2k.jpg",
+          "bytes": 352604,
+          "role": "include"
+        },
+        {
+          "path": "textures/ornate_mirror_01_nor_gl_2k.jpg",
+          "bytes": 197684,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:37:23.651563+00:00"
+    },
+    {
+      "id": "street_rat",
+      "name": "Street Rat",
+      "description": "Free 8K model of a realistic street rat with dense dark fur, glossy black eyes, detailed whiskers, ears and claws, and gritty, lifelike feral character.",
+      "categories": [
+        "nature",
+        "creature",
+        "collection: hidden_alley"
+      ],
+      "tags": [
+        "rat",
+        "mouse",
+        "animal",
+        "vermin",
+        "rodent",
+        "alleyway",
+        "pest",
+        "feral"
+      ],
+      "authors": {
+        "Sean Buckley": "All"
+      },
+      "polycount": 14286,
+      "dimensions": [
+        32.26977214217186,
+        148.4108306467533,
+        34.03247334063053
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://polyhaven.com/a/street_rat",
+      "resolution": "2k",
+      "thumbnail": "thumbnail.png",
+      "gltf": "street_rat.gltf",
+      "files": [
+        {
+          "path": "street_rat.gltf",
+          "bytes": 2770,
+          "role": "gltf"
+        },
+        {
+          "path": "street_rat.bin",
+          "bytes": 1365280,
+          "role": "include"
+        },
+        {
+          "path": "textures/street_rat_arm_2k.jpg",
+          "bytes": 3528311,
+          "role": "include"
+        },
+        {
+          "path": "textures/street_rat_diff_2k.jpg",
+          "bytes": 1823103,
+          "role": "include"
+        },
+        {
+          "path": "textures/street_rat_nor_gl_2k.jpg",
+          "bytes": 2965543,
+          "role": "include"
+        }
+      ],
+      "downloaded_at": "2026-10-22T22:37:40.475547+00:00"
+    }
+  ]
+}

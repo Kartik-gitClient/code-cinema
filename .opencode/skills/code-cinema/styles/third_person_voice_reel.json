@@ -1,0 +1,56 @@
+{
+  "id": "third_person_voice_reel",
+  "label": "3rd Person Voice Reel",
+  "summary": "Vertical first-person POV short with continuous third-person omniscient narration, direct speech only for diegetic broadcasts, voice-forward sound, and no static or empty shots.",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "aspect_ratio": "9:16"
+  },
+  "narration": {
+    "mode": "continuous_third_person",
+    "indirect_speech": true,
+    "direct_speech_only_for": [
+      "tv_anchor",
+      "radio_ad",
+      "emergency_announcement"
+    ],
+    "opening_hook_may_be_direct": true,
+    "voice_locale": [
+      "en-US",
+      "en-GB"
+    ],
+    "forbidden_voice_locales": [
+      "en-IN"
+    ]
+  },
+  "audio": {
+    "voice_forward": true,
+    "require_real_crying_sfx": true,
+    "forbid_tts_crying": true,
+    "mix_profile": "clean",
+    "optional_mix_profile": "voice_forward_retro"
+  },
+  "formats_registry": "styles/formats.json",
+  "visual": {
+    "pov": "first_person",
+    "show_protagonist_body": false,
+    "allow_pov_hands_and_props": true,
+    "static_shots_allowed": false,
+    "populate_public_scenes": true,
+    "stock_mart_shelves": true,
+    "fade_location_changes": true
+  },
+  "flow": [
+    "direct_hook",
+    "third_person_apartment_routine",
+    "third_person_rainy_walk",
+    "diegetic_ad",
+    "emergency_alert",
+    "third_person_panic_run",
+    "mart_shelter",
+    "girl_crying_discovery",
+    "cliffhanger_question"
+  ]
+}

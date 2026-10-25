@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "name": "save_her_kit",
+  "description": "Grab3D realistic-proportion cast and purpose-built outbreak sets for SAVE HER.",
+  "locations": {
+    "apartment_dawn": {
+      "scene": "res://kit/locations/apartment_dawn.tscn",
+      "description": "Small city apartment before dawn. Cold window light, dark TV, phone face-down, kitchen along the right wall.",
+      "anchors": [
+        "apt_door",
+        "apt_window",
+        "apt_tv",
+        "apt_phone",
+        "apt_low",
+        "pov_apt_sofa",
+        "pov_apt_window",
+        "pov_apt_door",
+        "pov_apt_door_near",
+        "pov_apt_bed",
+        "pov_apt_phone"
+      ],
+      "slots": [
+        "kexxy",
+        "kexxy_start",
+        "kexxy_leave"
+      ]
+    },
+    "street_breach": {
+      "scene": "res://kit/locations/street_breach.tscn",
+      "description": "Rain-soaked city street at first light. Apartments, fire escape, bus shelter, public screen, stalled cars and the MART storefront.",
+      "anchors": [
+        "street_walk",
+        "street_walk_end",
+        "street_screen",
+        "screen",
+        "street_turn",
+        "street_run",
+        "street_run_target",
+        "street_zombie",
+        "street_mart",
+        "mart_door",
+        "phone_bench",
+        "street_low",
+        "street_wide",
+        "pov_street_start",
+        "pov_street_mid",
+        "pov_street_ahead",
+        "pov_screen",
+        "pov_turn",
+        "pov_run_start",
+        "pov_run_end",
+        "pov_run_ahead",
+        "pov_zombie",
+        "pov_hook",
+        "pov_mart_start",
+        "pov_mart_stop",
+        "screen_calm",
+        "screen_alert",
+        "pov_mart_approach",
+        "pov_mart_doorway",
+        "pov_scream_long",
+        "pov_scream_target",
+        "pov_girl_outside",
+        "pov_stand_outside",
+        "pov_mop",
+        "mop_stick",
+        "mop_head"
+      ],
+      "slots": [
+        "kexxy_walk",
+        "kexxy_screen",
+        "kexxy_run",
+        "kexxy_mart",
+        "zombie_alley"
+      ]
+    },
+    "mart_red": {
+      "scene": "res://kit/locations/mart_red.tscn",
+      "description": "Dark minimart under red emergency light. Freezer glow at the back, a child cornered in the right-hand aisle.",
+      "anchors": [
+        "mart_entry",
+        "mart_aisle",
+        "mart_girl",
+        "mart_freeze",
+        "mart_stand",
+        "mart_wide",
+        "mart_entry_pov",
+        "mart_aisle_pov",
+        "pov_girl",
+        "pov_stand",
+        "mart_mop",
+        "mop_head"
+      ],
+      "slots": [
+        "kexxy",
+        "girl",
+        "zombie"
+      ]
+    }
+  },
+  "characters": {
+    "kexxy": {
+      "scene": "res://open_assets/characters/grab3d/man-rigged.glb",
+      "animations": [
+        "walk",
+        "run"
+      ],
+      "height": 1.799,
+      "forward": "+z",
+      "description": "Kexxy. Realistic-proportion adult male, dark jacket, serious read. Walk and run only."
+    },
+    "girl": {
+      "scene": "res://open_assets/characters/grab3d/girl-crying.glb",
+      "animations": [
+        "mixamo_com"
+      ],
+      "height": 1.474,
+      "forward": "+z",
+      "description": "The child. Realistic proportions and a full crying performance; keep her visible and frightened."
+    },
+    "zombie": {
+      "scene": "res://open_assets/characters/grab3d/zombie-crawl.glb",
+      "animations": [
+        "crawl",
+        "walk",
+        "run"
+      ],
+      "extra_anims": {
+        "scream": "res://open_assets/characters/grab3d/zombie_scream_upper.tres"
+      },
+      "height": 1.8,
+      "forward": "+z",
+      "description": "The infected man. T-pose mesh driven by the running-crawl performance; low, fast and wrong."
+    },
+    "zombie_officer": {
+      "scene": "res://open_assets/characters/zombie_officer/Zombie Scream.fbx",
+      "animations": [
+        "mixamo_com"
+      ],
+      "height": 1.95,
+      "forward": "+z",
+      "description": "Infected police officer. Full Mixamo model with the screaming/crouching performance; use directly for the girl encounter."
+    }
+  },
+  "props": {},
+  "sfx": {
+    "knock": "res://kit/audio/knock.wav",
+    "thud": "res://kit/audio/thud.wav",
+    "heartbeat": "res://kit/audio/heartbeat.wav",
+    "heartbeat_fast": "res://code_cinema/kit/audio/heartbeat_fast.wav",
+    "wind": "res://kit/audio/wind.wav",
+    "stinger": "res://kit/audio/stinger.wav",
+    "door_creak": "res://kit/audio/door_creak.wav",
+    "door_chime": "res://code_cinema/kit/audio/door_chime.wav",
+    "rain_light": "res://code_cinema/kit/audio/rain_light.wav",
+    "city_ambience": "res://code_cinema/kit/audio/city_ambience.wav",
+    "siren": "res://code_cinema/kit/audio/siren.wav",
+    "phone_buzz": "res://code_cinema/kit/audio/phone_buzz.wav",
+    "alert_beep": "res://code_cinema/kit/audio/alert_beep.wav",
+    "tv_static": "res://code_cinema/kit/audio/tv_static.wav",
+    "car_horn": "res://code_cinema/kit/audio/car_horn.wav",
+    "glass_break": "res://code_cinema/kit/audio/glass_break.wav",
+    "zombie_growl": "res://code_cinema/kit/audio/zombie_growl.wav",
+    "footsteps_wet": "res://code_cinema/kit/audio/footsteps_wet.wav",
+    "footsteps_indoor": "res://code_cinema/kit/audio/footsteps_indoor.wav",
+    "freezer_hum": "res://code_cinema/kit/audio/freezer_hum.wav",
+    "item_pickup": "res://code_cinema/kit/audio/item_pickup.wav",
+    "whoosh": "res://code_cinema/kit/audio/whoosh.wav",
+    "impact": "res://code_cinema/kit/audio/impact.wav",
+    "girl_cry.sobbing": "res://code_cinema/kit/audio/girl_cry_sobbing.wav",
+    "girl_cry.muffled": "res://code_cinema/kit/audio/girl_cry_muffled.wav",
+    "girl_cry.distant": "res://code_cinema/kit/audio/girl_cry_distant.wav"
+  },
+  "music": {
+    "tension": "res://kit/audio/tension_loop.wav"
+  },
+  "voices": {
+    "narrator": {
+      "provider": "edge",
+      "voice": "en-US-AndrewNeural",
+      "rate": "-5%",
+      "pitch": "-2Hz",
+      "volume": "+0%"
+    },
+    "anchor": {
+      "provider": "edge",
+      "voice": "en-US-AriaNeural",
+      "rate": "+2%",
+      "pitch": "+0Hz",
+      "volume": "+0%"
+    },
+    "kexxy": {
+      "provider": "edge",
+      "voice": "en-US-BrianNeural",
+      "rate": "+0%",
+      "pitch": "-2Hz",
+      "volume": "+0%"
+    },
+    "girl": {
+      "provider": "edge",
+      "voice": "en-US-AnaNeural",
+      "rate": "+0%",
+      "pitch": "+2Hz",
+      "volume": "+0%"
+    },
+    "zombie": {
+      "provider": "edge",
+      "voice": "en-US-EricNeural",
+      "rate": "-12%",
+      "pitch": "-8Hz",
+      "volume": "+0%"
+    }
+  }
+}

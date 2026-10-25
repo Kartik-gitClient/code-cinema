@@ -1,0 +1,50 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+studio/.env
+studio/code_cinema/config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OpenCode dependencies
+.opencode/node_modules/
+.opencode/bun.lock
+
+# Godot caches and local tools
+studio/.godot/
+studio/.tools/
+*.translation
+
+# Generated media and build artifacts
+studio/out/
+studio/code_cinema/build/
+studio/code_cinema/*.avi
+studio/code_cinema/*.mp4
+studio/code_cinema/*.wav
+studio/code_cinema/*.mp3
+*.avi
+*.mov
+
+# Downloaded third-party assets (keep attribution and manifests)
+studio/open_assets/**
+!studio/open_assets/README.md
+!studio/open_assets/CREDITS.md
+!studio/open_assets/license.txt
+!studio/open_assets/manifest.json
+
+# Local archive and scratch work
+archive/
+tmp/
+scratch/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

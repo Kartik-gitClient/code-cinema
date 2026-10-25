@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "default_format": "vertical",
+  "formats": {
+    "vertical": {
+      "label": "9:16 Vertical Short",
+      "aspect": "9:16",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "renderable": true,
+      "description": "Reels, Shorts, TikTok, and vertical cinematic playback."
+    },
+    "square": {
+      "label": "1:1 Cinematic",
+      "aspect": "1:1",
+      "width": 1080,
+      "height": 1080,
+      "fps": 30,
+      "renderable": true,
+      "description": "Square cinematic social cut with centered safe framing."
+    },
+    "landscape": {
+      "label": "16:9 Cinematic",
+      "aspect": "16:9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "renderable": true,
+      "description": "YouTube/landscape cinematic cut."
+    },
+    "draft": {
+      "label": "Draft",
+      "aspect": "9:16",
+      "width": 540,
+      "height": 960,
+      "fps": 30,
+      "renderable": false,
+      "description": "Reserved empty format placeholder. No render path is configured yet."
+    }
+  }
+}

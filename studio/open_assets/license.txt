@@ -1,0 +1,11 @@
+Model Information:
+* title:	low poly city pack
+* source:	https://sketchfab.com/3d-models/low-poly-city-pack-7f671f35e9ad4149b83451a3a92a6e2e
+* author:	Igor Tretyakov (https://sketchfab.com/vdv77)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "low poly city pack" (https://sketchfab.com/3d-models/low-poly-city-pack-7f671f35e9ad4149b83451a3a92a6e2e) by Igor Tretyakov (https://sketchfab.com/vdv77) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

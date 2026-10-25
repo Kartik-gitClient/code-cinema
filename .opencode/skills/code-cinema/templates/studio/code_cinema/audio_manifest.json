@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "name": "save_her_audio_farm",
+  "sample_rate": 48000,
+  "channels": 2,
+  "voices_file": "code_cinema/voices.json",
+  "mix_profiles": {
+    "clean": {
+      "description": "Clean voice-forward mix. No retro filtering on any bus.",
+      "dialog_gain": 2.8,
+      "sfx_gain": 0.4,
+      "music_gain": 0.5,
+      "retro": {
+        "vo": false,
+        "sfx": false,
+        "music": false
+      }
+    },
+    "voice_forward_retro": {
+      "description": "Optional retro profile. Retro affects voice only; SFX and music stay clean.",
+      "dialog_gain": 2.7,
+      "sfx_gain": 0.4,
+      "music_gain": 0.45,
+      "retro": {
+        "vo": true,
+        "sfx": false,
+        "music": false
+      }
+    }
+  },
+  "sounds": {
+    "girl_cry.sobbing": {
+      "path": "code_cinema/kit/audio/girl_cry_sobbing.wav",
+      "category": "child",
+      "gain": 0.85,
+      "loop": false,
+      "generator": "girl_cry.sobbing",
+      "description": "Close child sobbing with breath and stereo room."
+    },
+    "girl_cry.muffled": {
+      "path": "code_cinema/kit/audio/girl_cry_muffled.wav",
+      "category": "child",
+      "gain": 0.9,
+      "loop": false,
+      "generator": "girl_cry.muffled",
+      "description": "Child sobbing heard through an interior/wall."
+    },
+    "girl_cry.distant": {
+      "path": "code_cinema/kit/audio/girl_cry_distant.wav",
+      "category": "child",
+      "gain": 1.15,
+      "loop": false,
+      "generator": "girl_cry.distant",
+      "description": "Distant child sobbing with heavy air and room."
+    },
+    "alert_beep": {
+      "path": "code_cinema/kit/audio/alert_beep.wav",
+      "category": "alarm",
+      "gain": 0.55,
+      "loop": false
+    },
+    "car_horn": {
+      "path": "code_cinema/kit/audio/car_horn.wav",
+      "category": "traffic",
+      "gain": 0.5,
+      "loop": false
+    },
+    "city_ambience": {
+      "path": "code_cinema/kit/audio/city_ambience.wav",
+      "category": "street",
+      "gain": 0.32,
+      "loop": true
+    },
+    "door_chime": {
+      "path": "code_cinema/kit/audio/door_chime.wav",
+      "category": "interior",
+      "gain": 0.42,
+      "loop": false
+    },
+    "footsteps_indoor": {
+      "path": "code_cinema/kit/audio/footsteps_indoor.wav",
+      "category": "movement",
+      "gain": 0.44,
+      "loop": true
+    },
+    "footsteps_wet": {
+      "path": "code_cinema/kit/audio/footsteps_wet.wav",
+      "category": "movement",
+      "gain": 0.48,
+      "loop": true
+    },
+    "freezer_hum": {
+      "path": "code_cinema/kit/audio/freezer_hum.wav",
+      "category": "interior",
+      "gain": 0.28,
+      "loop": true
+    },
+    "glass_break": {
+      "path": "code_cinema/kit/audio/glass_break.wav",
+      "category": "impact",
+      "gain": 0.55,
+      "loop": false
+    },
+    "heartbeat_fast": {
+      "path": "code_cinema/kit/audio/heartbeat_fast.wav",
+      "category": "body",
+      "gain": 0.36,
+      "loop": true
+    },
+    "impact": {
+      "path": "code_cinema/kit/audio/impact.wav",
+      "category": "impact",
+      "gain": 0.62,
+      "loop": false
+    },
+    "item_pickup": {
+      "path": "code_cinema/kit/audio/item_pickup.wav",
+      "category": "prop",
+      "gain": 0.4,
+      "loop": false
+    },
+    "phone_buzz": {
+      "path": "code_cinema/kit/audio/phone_buzz.wav",
+      "category": "device",
+      "gain": 0.42,
+      "loop": true
+    },
+    "rain_light": {
+      "path": "code_cinema/kit/audio/rain_light.wav",
+      "category": "weather",
+      "gain": 0.42,
+      "loop": true
+    },
+    "siren": {
+      "path": "code_cinema/kit/audio/siren.wav",
+      "category": "alarm",
+      "gain": 0.5,
+      "loop": true
+    },
+    "tv_static": {
+      "path": "code_cinema/kit/audio/tv_static.wav",
+      "category": "device",
+      "gain": 0.26,
+      "loop": true
+    },
+    "whoosh": {
+      "path": "code_cinema/kit/audio/whoosh.wav",
+      "category": "motion",
+      "gain": 0.38,
+      "loop": false
+    },
+    "zombie_growl": {
+      "path": "code_cinema/kit/audio/zombie_growl.wav",
+      "category": "creature",
+      "gain": 0.46,
+      "loop": true
+    },
+    "heartbeat": {
+      "path": "kit/audio/heartbeat.wav",
+      "category": "body",
+      "gain": 0.3,
+      "loop": true
+    },
+    "wind": {
+      "path": "kit/audio/wind.wav",
+      "category": "weather",
+      "gain": 0.3,
+      "loop": true
+    },
+    "stinger": {
+      "path": "kit/audio/stinger.wav",
+      "category": "stinger",
+      "gain": 0.42,
+      "loop": false
+    },
+    "door_creak": {
+      "path": "kit/audio/door_creak.wav",
+      "category": "interior",
+      "gain": 0.45,
+      "loop": false
+    },
+    "thud": {
+      "path": "kit/audio/thud.wav",
+      "category": "impact",
+      "gain": 0.5,
+      "loop": false
+    },
+    "knock": {
+      "path": "kit/audio/knock.wav",
+      "category": "impact",
+      "gain": 0.45,
+      "loop": false
+    },
+    "tension_loop": {
+      "path": "kit/audio/tension_loop.wav",
+      "category": "music",
+      "gain": 0.2,
+      "loop": true
+    }
+  }
+}
